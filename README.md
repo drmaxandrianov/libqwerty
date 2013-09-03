@@ -4,4 +4,5 @@ This library was designed for easy working with strings in C, but can be also us
 files to be included into your sorce code available in this hub.
 
 ##License
-This software is under MIT License (MIT). Copyright (c) 2013 by Maxim Pestun.
+This software is under MIT License (MIT).  
+Copyright (c) 2013 by Maxim Pestun.
